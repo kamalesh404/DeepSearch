@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00CED1&height=200&section=header&text=DeepSearch&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered+Search+Engine+with+Knowledge+Graphs&descAlignY=58&descSize=18" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00CED1&height=200&section=header" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
